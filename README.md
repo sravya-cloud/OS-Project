@@ -5,8 +5,8 @@
 
 | Name | SRN |
 |------|-----|
-| Mukil Skanda | YOUR_SRN |
-| Partner Name | SRN |
+| Mukil Skanda | PES1UG24CS281 |
+| Mutnuri Nagavalli Sri Sravya | PES1UG24CS284 |
 
 ---
 
