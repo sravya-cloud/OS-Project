@@ -1,6 +1,6 @@
 all:
-	gcc engine.c -o engine
-	gcc cpu_test.c -o cpu_test
+	gcc boilerplate/engine.c -o boilerplate/engine
+	gcc cpu_test.c -o boilerplate/cpu_test
 
 clean:
-	rm -f engine cpu_test
+	rm -f boilerplate/engine boilerplate/cpu_test
