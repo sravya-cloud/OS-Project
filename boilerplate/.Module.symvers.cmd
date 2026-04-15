@@ -1,0 +1,1 @@
+savedcmd_/home/muk/OS-Project/boilerplate/Module.symvers :=  scripts/mod/modpost -M -m       -o /home/muk/OS-Project/boilerplate/Module.symvers -T /home/muk/OS-Project/boilerplate/modules.order -i Module.symvers -e 
